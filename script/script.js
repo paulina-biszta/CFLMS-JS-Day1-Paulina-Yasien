@@ -1,0 +1,1 @@
+document.write("<hr>Hi my name is Martin from the external file");
